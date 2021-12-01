@@ -10,9 +10,9 @@
 		}
 	],
 	"require": {
-		"php": "^7.1",
-		"nette/forms": "^2.4 || ^3.0.0",
-		"nette/utils": "^2.4 || ^3.0.0"
+		"php": "~8",
+		"nette/forms": "^2.4 || ~3",
+		"nette/utils": "^2.4 || ~3"
 	},
 	"require-dev": {
 		"nette/application": "^2.4 || ^3.0.0",
